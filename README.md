@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Guegan</h1>
 <h3 align="center">I'm a web developer from France !</h3>
 
-- 🔭 I’m currently working on [Afroto] !(https://afroto.com/)
+- 🔭 I’m currently working on [Afroto](https://afroto.com/) !
 
 - 📄 Know about my experiences [victorguegan.fr](victorguegan.fr)
 
