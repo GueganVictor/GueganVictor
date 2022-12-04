@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Guegan...</h1>
-<h3 align="center">...a Software Engineer at <a href="https://www.kleegroup.com/">Klee Group</a>.</h3>
+<h3 align="center">...a Software Engineer at <a href="https://www.jellysmack.com/">Jellysmack</a>.</h3>
 <br/>
 
 <p align="center">
