@@ -6,4 +6,5 @@
   On my free time, <br/> I’m secretly working on <a href="https://afroto.com/">Afroto</a>,<br/>a dashboard for african photographers 📸 !
 </p>
  <h3 align="center">🪐</h3>
+ 
 <p align="center"><a href="victorguegan.fr">victorguegan.fr</a</p>
